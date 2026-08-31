@@ -1,0 +1,4 @@
+{"request_id": "r101", "risk_score": 3, "decision": "AUTO_APPROVE"}
+{"request_id": "r103", "risk_score": 60, "decision": "MANUAL_REVIEW", "reason": "MEDIUM_RISK_SCORE"}
+{"request_id": "r104", "risk_score": 95, "decision": "REJECT", "reason": "HIGH_RISK_SCORE"}
+{"request_id": "r105", "risk_score": null, "decision": "REJECT", "reason": "RETURN_WINDOW_EXPIRED"}
