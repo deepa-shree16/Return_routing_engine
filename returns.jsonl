@@ -1,0 +1,4 @@
+{"request_id": "r101", "account_id": "u104", "category": "ELECTRONICS", "days_since_purchase": 10, "order_value_usd": 150, "account_age_days": 365}
+{"request_id": "r103", "account_id": "u101", "category": "ELECTRONICS", "days_since_purchase": 15, "order_value_usd": 250, "account_age_days": 400}
+{"request_id": "r104", "account_id": "u107", "category": "FURNITURE", "days_since_purchase": 12, "order_value_usd": 800, "account_age_days": 60}
+{"request_id": "r105", "account_id": "u104", "category": "ELECTRONICS", "days_since_purchase": 35, "order_value_usd": 150, "account_age_days": 365}

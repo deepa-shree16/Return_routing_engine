@@ -1,0 +1,19 @@
+{
+  "return_history_points": [
+    { "min": 0,  "max": 0,          "points": 0  },
+    { "min": 1,  "max": 5,          "points": 10 },
+    { "min": 6,  "max": 10,         "points": 25 },
+    { "min": 11, "max": 999999,     "points": 50 }
+  ],
+  "account_age_points": [
+    { "min": 0,   "max": 29,        "points": 30 },
+    { "min": 30,  "max": 179,       "points": 20 },
+    { "min": 180, "max": 999999,    "points": 0  }
+  ],
+  "order_value_points": [
+    { "min": 0,   "max": 49,        "points": 0  },
+    { "min": 50,  "max": 199,       "points": 3  },
+    { "min": 200, "max": 499,       "points": 10 },
+    { "min": 500, "max": 999999999, "points": 25 }
+  ]
+}

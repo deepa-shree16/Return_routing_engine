@@ -1,0 +1,9 @@
+{
+  "categories": [
+    { "category": "ELECTRONICS", "return_window_days": 30 },
+    { "category": "FURNITURE",   "return_window_days": 45 },
+    { "category": "CLOTHING",    "return_window_days": 60 },
+    { "category": "BOOKS",       "return_window_days": 15 },
+    { "category": "DEFAULT",     "return_window_days": 30 }
+  ]
+}
